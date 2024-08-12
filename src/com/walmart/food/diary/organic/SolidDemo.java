@@ -30,6 +30,27 @@ public class SolidDemo {
 			Composition
 		 */
 		
+     // datatypes...  8 primitive 
+		// keywords
+		//operators 
+		// loops , if 
+		// data structures 
+		
+	// JRE --> java runtime env JDK --> java development kit
+		// .bin --> excutable app  java/javac/ 
+		// lib --> .jar --> java zip of .class
+		// security --> certs
+		
+		//  stores --> A--> binary format 00111
+		
+		byte stateTax = 61;
+		
+		System.out.println(stateTax);
+		short temp = 333;
+		char temp1='r';
+		
+		
+		
 		
 
 	}
