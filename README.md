@@ -1,2 +1,2 @@
 # CoreJavaAndKotlin
-Kotlin July batch 
+Kotlin  basics with examples 
